@@ -99,12 +99,6 @@ The following techniques were identified and mapped. Techniques marked with a su
 
 ## Navigator Layer
 
-The ATT&CK Navigator layer file is included in this repository. You can load it directly into the Navigator:
-
-1. Go to [https://mitre-attack.github.io/attack-navigator/](https://mitre-attack.github.io/attack-navigator/)
-2. Click **Open Existing Layer** → **Upload from local**
-3. Select `layer.json`
-
 ![ATT&CK Navigator layer showing mapped Cobalt Kitty techniques](layer.svg)
 
 ---
